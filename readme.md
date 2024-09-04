@@ -22,8 +22,7 @@ This will create a Jar in the target folder
 7.We can access the application using this domain
 
 The deployed application url is
-http://trackingnumberapp-env-1.eba-2kkq5ye3.us-east-2.elasticbeanstalk.com:8080/api/next-tracking-number?origin_country_id=IN&destination_country_id=US&weight=50&customer_id=285c3c48-5831-4453-8b6f-15f8a0a4eeb6&created_at=2024-09-04T14:30:00&customer_name=RedBox%20Logistics&customer_slug=redbox-logistics
-
+http://trackingnumbergenerator-env.eba-hh7up97k.us-east-2.elasticbeanstalk.com:8080/api/next-tracking-number?origin_country_id=IN&destination_country_id=US&weight=50&customer_id=285c3c48-5831-4453-8b6f-15f8a0a4eeb6&created_at=2024-09-04T14:30:00&customer_name=RedBox%20Logistics&customer_slug=redbox-logistics
 
 
      
